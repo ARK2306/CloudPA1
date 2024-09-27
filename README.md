@@ -140,4 +140,3 @@ Key Features:
    bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic team21 --from-beginning
 
 4. Query the PostgreSQL database to verify data insertion and updates.
-![image](https://github.com/user-attachments/assets/87bcca80-7dca-4867-833c-3f1221254976)
